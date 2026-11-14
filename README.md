@@ -55,3 +55,7 @@ A systemd user timer runs the sync daily at 08:00 Asia/Kolkata, with `Persistent
 ## Documentation
 
 - [Implementation plan](docs/implementation-plan.md): architecture, security boundaries, delivery stages, and verification criteria.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
